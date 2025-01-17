@@ -1,3 +1,3 @@
 # archive
 
-For my old CMSC131 slides! 
+For my old slides! 
